@@ -1,7 +1,7 @@
 {
     "strategy": "NostalgiaForInfinityV7",
     "db_url": "$LIVE_DATABASE_URL",
-    "dry_run": false,
+    "dry_run": true,
     "timeframe": "5m",
     "max_open_trades": 20,
     "stake_currency": "USDT",
